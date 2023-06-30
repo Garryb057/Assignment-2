@@ -1,3 +1,5 @@
+//Name: Gurekpal Bhullar
+//Email: gsbzm8@umsystem.edu
 #include "linkedlist.h"
 #include <stdexcept>
 

@@ -1,3 +1,5 @@
+//Name: Gurekpal Bhullar
+//Email: gsbzm8@umsystem.edu
 #include "function.h"
 #include <iostream>
 

@@ -1,3 +1,5 @@
+//Name: Gurekpal Bhullar
+//Email: gsbzm8@umsystem.edu
 #include "nonprofessional.h"
 
 //Default constructor for NonProfessional
