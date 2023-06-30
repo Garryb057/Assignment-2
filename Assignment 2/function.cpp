@@ -1,6 +1,7 @@
 #include "function.h"
 #include <iostream>
 
+//Menu to decide what part of assignment to do
 int menu() {
 	int userChoice;
 	std::cout << "1. Linked List" << std::endl;
@@ -10,6 +11,7 @@ int menu() {
 	std::cin >> userChoice;
 	return userChoice;
 }
+//Menu to modify list
 int listMenu() {
 	int userChoice;
 	std::cout << "What would you like to do?" << std::endl;

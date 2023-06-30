@@ -1,11 +1,13 @@
 #pragma once
 #include <cstddef>
 
+//Sets up node to have an integer data and the pointer to the next item
 struct Node {
 	int data;
 	Node* nextPtr;
 };
 
+//LinkedList class
 class linkedList {
 private:
 	Node* headPtr;

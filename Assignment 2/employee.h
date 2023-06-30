@@ -6,6 +6,7 @@ protected:
 	std::string name;
 	int age;
 public:
+	//Constructors
 	Employee();
 	Employee(std::string n, int a);
 
@@ -17,6 +18,7 @@ public:
 	void setName(std::string n);
 	void setAge(int a);
 
+	//Functions for Employee Class
 	virtual double calcWeekSalary() const = 0;
 	virtual double calcHealthCareContributions() const = 0;
 	virtual int calcVacationDays() const = 0;
